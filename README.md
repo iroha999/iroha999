@@ -4,7 +4,7 @@
 <div align="center" style="background-color:#ffffff; color:#00BFFF; padding:32px;">
 
 
-# iroha999 - Student Developer Portfolio
+# iroha999 - Student Developer
 
 
 <p align="center">
@@ -35,7 +35,10 @@ I love new technologies and design, and strive to grow every day.
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=00BFFF" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00BFFF" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=shield&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00BFFF" />
+
 </div>
 
 ## 📊 **GitHub Statistics**
@@ -45,17 +48,6 @@ I love new technologies and design, and strive to grow every day.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iroha999&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00BFFF&text_color=ffffff&border_color=1a1a1a" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iroha999&theme=dark&hide_border=true&background=000000&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
-
-
-
-## 📫 **Contact**
-
-<div align="center">
-  <a href="https://github.com/iroha999">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF" />
-  </a>
-</div>
-
 
 <div align="center">
   <em>Last Updated: 2025.07.22</em>
