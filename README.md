@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available_for_hire-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-1a1a1a?style=for-the-badge&labelColor=00BFFF" />
   <img src="https://img.shields.io/badge/Location-Japan-00BFFF?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
