@@ -4,7 +4,7 @@
 <div align="center" style="background-color:#ffffff; color:#00BFFF; padding:32px;">
 
 
-# iroha999 - Student Developer
+# iroha999
 
 
 <p align="center">
