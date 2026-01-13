@@ -40,14 +40,6 @@ I love new technologies and design, and strive to grow every day.
 
 </div>
 
-## 📊 **GitHub Statistics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iroha999&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_color=1a1a1a" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iroha999&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00BFFF&text_color=ffffff&border_color=1a1a1a" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iroha999&theme=dark&hide_border=true&background=000000&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</div>
-
 <div align="center">
   <em>Last Updated: 2025.07.22</em>
 </div>
