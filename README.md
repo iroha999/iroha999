@@ -21,7 +21,7 @@ I love new technologies and design, and strive to grow every day.
 
 
 
-## ⚡ **Tech Stack**
+## ⚡ **Tech**
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00BFFF" />
@@ -35,8 +35,6 @@ I love new technologies and design, and strive to grow every day.
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00BFFF" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00BFFF" />
   <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=shield&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00BFFF" />
 
 </div>
 
