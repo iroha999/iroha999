@@ -16,7 +16,7 @@
 
 ## 👤 **About Me**
 
-# Hi there, I'm Genki 👋
+# Hi there
 
 Infrastructure Engineer based in Japan 🇯🇵
 Former Cybersecurity student at NCC.
