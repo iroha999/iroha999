@@ -16,8 +16,17 @@
 
 ## 👤 **About Me**
 
-I am a student from Japan, currently learning web, app development, and infrastructure.
-I love new technologies and design, and strive to grow every day.
+# Hi there, I'm Genki 👋
+
+Infrastructure Engineer based in Japan 🇯🇵
+Former Cybersecurity student at NCC.
+
+- 🛠️ Currently working as an Infrastructure / Network Engineer
+- 🍮 Co-founder / Member of @TeamCustardTaiyaki (Development team by NCC alumni)
+- 🧠 *Sakaue lives in my heart... forever.*
+
+Automate. Optimize. Minimalize. Dark Theme Everything.
+
 
 
 
